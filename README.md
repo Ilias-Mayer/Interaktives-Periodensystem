@@ -1,7 +1,7 @@
 # Interaktives-Periodensystem
 
-![Landing Page](src/img/landing-page.png)
+## Landing-page
+![Landing Page](img/landing-page.png)
 
-##  Technologies in Use
-
--  Java
+## Mol-calculator-page
+![Mol Calculator](img/landing-page.png)
