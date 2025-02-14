@@ -1,5 +1,5 @@
 # Interaktives-Periodensystem
-
+Dieses Projekt ist ein interaktives Periodensystem
 ## Landing-page
 ![Landing Page](img/landing-page.png)
 
